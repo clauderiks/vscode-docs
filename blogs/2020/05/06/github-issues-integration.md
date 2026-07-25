@@ -1,7 +1,7 @@
 ---
 Order: 
 TOCTitle: GitHub Issues integration
-PageTitle: Introducing GitHub Issues intregration
+PageTitle: Introducing GitHub Issues integration
 MetaDescription: Working with GitHub Issues in Visual Studio Code
 Date: 2020-05-06
 Authors:
