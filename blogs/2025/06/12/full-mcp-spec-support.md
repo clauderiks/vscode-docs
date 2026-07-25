@@ -8,6 +8,8 @@ Date: 2025-06-12
 Authors:
   - name: Harald Kirschner
     social: https://github.com/digitarald
+  - name: Connor Peet
+    social: https://github.com/connor4312
   - name: Tyler Leonhardt
     social: https://github.com/tylerleonhardt
 ---
