@@ -6,8 +6,7 @@ MetaDescription: Introducing GitHub Copilot for Azure, a chat participant to ask
 MetaSocialImage: quickstart-create.png
 Date: 2024-11-15
 Authors:
-  - name: Chris Dias
-    social: https://twitter.com/chrisdias
+  - name: Chris Harris
 ---
 
 I'm thrilled to introduce the preview of **GitHub Copilot for Azure** - a new tool that integrates effortlessly with GitHub Copilot Chat in VS Code. Imagine it as your personal guide for navigating the Azure cloud. No more toggling between your IDE and the Azure portal to manage infrastructure or look up commands and arguments. Now, you can concentrate on your core task - coding. Whether you're setting up services or deploying applications, simply prompt `@azure` in the Chat view and manage everything directly within your editor.
