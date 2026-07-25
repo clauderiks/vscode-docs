@@ -8,7 +8,7 @@ Date: 2025-03-26
 Authors:
   - name: Rob Conery
     social: https://bsky.app/profile/robconery.com
-  - name: Harald Kirschner
+  - name: Burke Holland
     social: https://twitter.com/burkeholland
 ---
 
